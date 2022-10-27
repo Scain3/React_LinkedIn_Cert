@@ -7,3 +7,12 @@ React:
 
 Babeljs.io:
     - react compiler to see why code isn't working in VSCode
+
+Components:
+    - use functions to display HTML or CSS content via JavaScript
+    - Components are always capitalized
+
+ReactDOM.render:
+    - only returns one single element
+    - If you want to return multiple components it is best to return a div
+        of the wrapped content
