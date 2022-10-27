@@ -24,3 +24,6 @@ Props:
     - pass prop value into component
     - then pass prop variable into function
     - return the prop dynamically
+
+Keys
+    - are important to lists in react
