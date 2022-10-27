@@ -27,3 +27,6 @@ Props:
 
 Keys
     - are important to lists in react
+
+React.Fragment
+    - a good wrapper tag instead of div because it does not add anything extra to the DOM.
