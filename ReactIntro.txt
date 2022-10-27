@@ -30,3 +30,7 @@ Keys
 
 React.Fragment
     - a good wrapper tag instead of div because it does not add anything extra to the DOM.
+
+useState:
+    - a hook that can change the state of a value,
+    - it has an initial value and then the setProperty allows you to change the value
