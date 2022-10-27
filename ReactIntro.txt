@@ -34,3 +34,6 @@ React.Fragment
 useState:
     - a hook that can change the state of a value,
     - it has an initial value and then the setProperty allows you to change the value
+
+useEffect:
+    - changes state value at the beginning of page render
