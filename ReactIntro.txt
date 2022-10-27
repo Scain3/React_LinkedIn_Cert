@@ -37,3 +37,8 @@ useState:
 
 useEffect:
     - changes state value at the beginning of page render
+
+UseReducer:
+    Takes 2 Args:
+        - function that updates state
+        - initial state
