@@ -1,0 +1,28 @@
+Material UI:
+- open-source React component library that implements Google's Material Design
+    as components for Facebook's React
+
+Advantages:
+- Ship out the web application faster without the need to reinvent the wheel
+- Beautiful design by default
+- Customizability: extensive set of intuitive Customizability features
+- reduced barrier entry for new developers, back end developers working on frontend, or
+    less technical designers
+
+Installation:
+- npm install @mui/material @emotion/react @emotion/styled
+
+    With Styled Components:
+    - npm install @mui/material @mui/styled-engine-sc styled-components
+
+Globals:
+    - MUI is built to function inisolation
+    - Do not require globally scoped styles
+    - For better user and developer experience, the following globals are recommended:
+
+    Responsibe meta tag:
+    - MUI is a mobile first component library
+    - To ensure proper rendering and touch zooming for all devices, add the responsive
+        viewport meta tag to <head> element:
+        - <meta name="viewport" content="initial-scale=1, width=device-width" />
+        
